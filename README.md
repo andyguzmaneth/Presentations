@@ -3,6 +3,8 @@ This is a repository to host the presentations I have given. Any presentations h
 
 |     Title     |     Audience     |     Event     |     Date     |
 |     -----     |     -------      |     --------  |      ------- |
+| If You Peak, You Leak ([recording](https://www.youtube.com/watch?v=tvAqDJXCBaA)) | [EthBoulder](https://ethboulder.xyz/) | EthBoulder 2026 | 2026-02-15 |
+| Ethereum Privacy Roadmap ([recording](https://www.youtube.com/watch?v=qCBMjokWBRc)) | [Web3Privacy Now](https://web3privacy.info/) | [Ethereum Privacy Stack - Devconnect 2025](https://eps25.web3privacy.info/) | 2025-11-21 |
 | Workshop: running your own Ethereum full node (recording)([slides](https://docs.google.com/presentation/d/1iS-hDVPj0e6StHHeZyAe0ANw8-Fg8s-gzR1RwV54NX0/edit?usp=sharing))| [Ethereum Costa Rica](https://ethereum.cr/) | Monthly Meetup | TBD |
 | Entendiendo el ecosistema de nodos y staking - parte 1 ([recording](https://www.youtube.com/live/y9O8yqalXw8?feature=shared))([slides](https://docs.google.com/presentation/d/1qLDUXeU8gh0jZ1OWuI3jmoXkodlZxGyBzwrDk4Mdcp8/edit?usp=sharing))| [ETH KIPU]([https://ethereum.cr/](https://ethkipu.org/)) | Jardineros de lo Infinito - Clase 1 | 2024-05-23 |
 | Identidad web3: expandiendo lo posible con zero-knowledge ([recording](https://www.youtube.com/live/ULGpVOedlJ8?feature=shared&t=7678))([slides](https://docs.google.com/presentation/d/15oWQKdUoTlGfiF1kQ7RuKY2BxDdnl-s5c2rtZvWmCZ0/edit?usp=sharing))| ETH Latam | [ETHLatam 2024](https://ethlatam.org/) | 2024-03-13 |
