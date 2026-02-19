@@ -6,6 +6,7 @@ Leading Privacy at [PSE](https://pse.dev)@[Ethereum Foundation](https://ethereum
 | ----- | -------- | ----- | ---- |
 | 10 Hot Takes on privacy ([post](https://x.com/AndyGuzmanEth/status/2023948970599547155?s=20)) | The Privacy Salon | The Privacy Salon | 2026-02-17 |
 | If You Peak, You Leak ([recording](https://www.youtube.com/watch?v=tvAqDJXCBaA)) | [EthBoulder](https://ethboulder.xyz/) | EthBoulder 2026 | 2026-02-15 |
+| The Ethereum Privacy Stack ([slides](https://docs.google.com/presentation/d/1HGNIhXsMOtnVSqC-SFvyMiWQgzIURvYj3ytpKgzXQxQ/edit?usp=sharing)) | Linux Foundation Decentralized Trust | Linux Foundation Decentralized Trust - Member Summit | 2026-01-21 |
 | Ethereum Privacy Roadmap ([recording](https://www.youtube.com/watch?v=qCBMjokWBRc)) | [Web3Privacy Now](https://web3privacy.info/) | [Ethereum Privacy Stack - Devconnect 2025](https://eps25.web3privacy.info/) | 2025-11-21 |
 | Workshop: running your own Ethereum full node ([slides](https://docs.google.com/presentation/d/1iS-hDVPj0e6StHHeZyAe0ANw8-Fg8s-gzR1RwV54NX0/edit?usp=sharing)) | [Ethereum Costa Rica](https://ethereum.cr/) | Monthly Meetup | TBD |
 | Entendiendo el ecosistema de nodos y staking - parte 1 ([recording](https://www.youtube.com/live/y9O8yqalXw8?feature=shared)) ([slides](https://docs.google.com/presentation/d/1qLDUXeU8gh0jZ1OWuI3jmoXkodlZxGyBzwrDk4Mdcp8/edit?usp=sharing)) | [ETH KIPU](https://ethkipu.org/) | Jardineros de lo Infinito - Clase 1 | 2024-05-23 |
