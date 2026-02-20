@@ -4,6 +4,7 @@ Leading Privacy at [PSE](https://pse.dev)@[Ethereum Foundation](https://ethereum
 
 | Title | Audience | Event | Date |
 | ----- | -------- | ----- | ---- |
+| Every Layer Bleeds ([recording](https://x.com/EthereumDenver/status/2024563816781259102)) ([slides](https://app.pitch.com/app/presentation/ce7d5730-21ca-4ad5-b5b9-89268b8c3ddc/2716b031-a816-4e27-ae29-6aefc97398bc/947d8f70-4033-4ac3-9422-9edf4055c6ee)) | [ETH Denver](https://x.com/EthereumDenver) | ETH Denver 2026 | 2026-02-19 |
 | 10 Hot Takes on privacy ([post](https://x.com/AndyGuzmanEth/status/2023948970599547155?s=20)) | The Privacy Salon | The Privacy Salon | 2026-02-17 |
 | If You Peak, You Leak ([recording](https://www.youtube.com/watch?v=tvAqDJXCBaA)) | [EthBoulder](https://ethboulder.xyz/) | EthBoulder 2026 | 2026-02-15 |
 | The Ethereum Privacy Stack ([slides](https://docs.google.com/presentation/d/1HGNIhXsMOtnVSqC-SFvyMiWQgzIURvYj3ytpKgzXQxQ/edit?usp=sharing)) | Linux Foundation Decentralized Trust | Linux Foundation Decentralized Trust - Member Summit | 2026-01-21 |
